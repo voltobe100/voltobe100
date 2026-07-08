@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a2e,100:16213e&height=230&section=header&text=Vaibhav%20Golchha&fontSize=48&fontColor=00ff9c&fontAlignY=36&animation=fadeIn&desc=Securing%20Systems.%20Shipping%20Products.%20Teaching%20Machines.&descAlignY=54&descColor=8be9fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a2e,100:16213e&height=230&section=header&text=Vaibhav%20Golchha&fontSize=48&fontColor=00ff9c&fontAlignY=36&animation=fadeIn&desc=Building%20Secure%20Software%20while%20Exploring%20AI%20%26%20Solving%20Real%20Problems&descAlignY=54&descColor=8be9fd" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=00FF9C&center=true&vCenter=true&width=750&lines=root%40vaibhav%3A~%24+whoami;Building+at+NexaThread.Solutions;Breaking+things+to+build+them+stronger;Full-Stack+by+trade%2C+Security-minded+by+default;Teaching+machines+one+model+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=00FF9C&center=true&vCenter=true&width=750&lines=root%40vaibhav%3A~%24+whoami;Founder's+Office+Developer+%40+NexaThread;MCA+%40+Jain+University;Cyber+Security+Enthusiast;Building+Secure+Full-Stack+Applications;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,26 +25,26 @@
 ## `whoami`
 
 ```yaml
-name:        Vaibhav Golchha
-education:   MCA, Information Security & Management Services — Jain University
-role:        Founder's Office – Developer @ NexaThread.Solutions
-past:        Frontend Developer @ Dehix
-location:    India
-interests:   [ Cyber Security, AI/ML, Full-Stack Development, Cloud ]
-learning:    [ ML Systems, AI Agents, Cloud Security, DevOps ]
-status:      "actively building, actively breaking, actively learning"
+name: Vaibhav Golchha
+education: MCA, Information Security & Management Services — Jain University
+role: Founder's Office – Developer @ NexaThread.Solutions
+past: Frontend Developer @ Dehix
+location: Bengaluru, India
+interests: Cyber Security, AI/ML, Full-Stack Development, Cloud
+learning: ML Systems, AI Agents, Cloud Security, DevOps
+status: Actively building, breaking & learning
 ```
 
 ### About Me
 
-I sit at the intersection of **building** and **securing** software. At **NexaThread.Solutions**, I work directly in the founder's office as a developer — shipping product while thinking like an attacker about where it can fail. Before that, I built interfaces at **Dehix** as a frontend developer.
+I work at the intersection of **building** and **securing** software. At **NexaThread.Solutions**, I'm part of the founder's office as a developer — shipping product features with security in mind from day one. Before that, I built interfaces at **Dehix** as a frontend developer.
 
-My background in **Information Security** shapes how I write code: I default to asking *what breaks this* before *what ships this*. That same curiosity now extends into **AI/ML** — understanding how models fail is not that different from understanding how systems get exploited.
+My background in **Information Security** shapes how I approach code: understand what can break before deciding what to ship. I'm now extending that mindset into **AI/ML** and cloud systems.
 
-- 🔐 Security-first mindset, applied to full-stack products — not just pentesting reports.
-- 🏗️ Comfortable owning a feature end-to-end: API, database, UI, and the threat model around it.
-- 🤖 Currently exploring **AI agents** and applied **ML**, with an eye toward securing the systems I build with them.
-- ☁️ Increasingly focused on **cloud-native security** — the gap between "deployed" and "deployed safely."
+- 🔐 Security-first approach to full-stack development
+- 🏗️ Comfortable owning features end-to-end — API, database, UI
+- 🤖 Exploring AI agents and applied machine learning
+- ☁️ Building interest in cloud-native security
 
 <br/>
 
@@ -54,6 +54,7 @@ My background in **Information Security** shapes how I write code: I default to 
 <tr><td width="140" valign="top"><b>Languages</b></td><td>
 
 <img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-16213e?style=for-the-badge&logo=postgresql&logoColor=00ff9c" />
 
 </td></tr>
 <tr><td valign="top"><b>Frontend</b></td><td>
@@ -78,48 +79,14 @@ My background in **Information Security** shapes how I write code: I default to 
 </td></tr>
 <tr><td valign="top"><b>Security</b></td><td>
 
-<img src="https://img.shields.io/badge/Threat%20Modeling-16213e?style=for-the-badge&logo=owasp&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/AppSec-16213e?style=for-the-badge&logo=hackthebox&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Linux%20Hardening-16213e?style=for-the-badge&logo=linux&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Kali%20Linux-16213e?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Wireshark-16213e?style=for-the-badge&logo=wireshark&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Nmap-16213e?style=for-the-badge&logo=nmap&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/OWASP-16213e?style=for-the-badge&logo=owasp&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Linux-16213e?style=for-the-badge&logo=linux&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Docker-16213e?style=for-the-badge&logo=docker&logoColor=00ff9c" />
 
 </td></tr>
-</table>
-
-<br/>
-
-## `> Featured Projects`
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🔹 [Project Name] — [Add project link]**
-One-line description of the problem it solves and who it's for.
-`React` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**🔹 [Project Name] — [Add project link]**
-One-line description of the problem it solves and who it's for.
-`FastAPI` `MongoDB` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔹 [Project Name] — [Add project link]**
-One-line description — security tool, ML experiment, or full-stack app.
-`Python` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-<sub>More on <a href="https://github.com/voltobe100?tab=repositories">GitHub →</a></sub>
-
-</td>
-</tr>
 </table>
 
 <br/>
