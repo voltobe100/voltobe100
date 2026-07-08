@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:1a1a2e,100:16213e&amp;height=230&amp;section=header&amp;text=Vaibhav%20Golchha&amp;fontSize=48&amp;fontColor=00ff9c&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Building%20Secure%20Software%20while%20Exploring%20AI%20%26%20Solving%20Real%20Problems&amp;descAlignY=54&amp;descColor=8be9fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:1a1a2e,100:16213e&amp;height=230&amp;section=header&amp;text=Vaibhav%20Golchha&amp;fontSize=48&amp;fontColor=00ff9c&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Building%20Secure%20Software%20while%20Exploring%20AI%20and%20Solving%20Real%20Problems&amp;descAlignY=54&amp;descColor=8be9fd" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=1100&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=root%40vaibhav%3A~%24+whoami;Founder's+Office+Developer+%40+NexaThread;MCA+%40+Jain+University;Cyber+Security+Enthusiast;Building+Secure+Full-Stack+Applications;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=1100&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=root%40vaibhav%3A~%24+whoami;Founder's+Office+Developer+%40+NexaThread;MCA+%40+Jain+University;Cyber+Security+Enthusiast;Building+Secure+Full-Stack+Applications;Exploring+AI+and+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,13 +26,13 @@
 
 ```yaml
 name: Vaibhav Golchha
-education: MCA, Information Security &amp; Management Services — Jain University
+education: MCA, Information Security & Management Services — Jain University
 role: Founder's Office – Developer @ NexaThread.Solutions
 past: Frontend Developer @ Dehix
 location: Bengaluru, India
 interests: Cyber Security, AI/ML, Full-Stack Development, Cloud
 learning: ML Systems, AI Agents, Cloud Security, DevOps
-status: Actively building, breaking &amp; learning
+status: Actively building, breaking & learning
 ```
 
 ### About Me
