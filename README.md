@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:1a1a2e,100:16213e&amp;height=230&amp;section=header&amp;text=Vaibhav%20Golchha&amp;fontSize=48&amp;fontColor=00ff9c&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Building%20Secure%20Software%20while%20Exploring%20AI%20and%20Solving%20Real%20Problems&amp;descAlignY=54&amp;descColor=8be9fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a2e,100:16213e&height=200&section=header&text=Vaibhav%20Golchha&fontSize=44&fontColor=00ff9c&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Security%20Engineer%20%7C%20Offensive%20Security%20%2B%20AI%20Security&descAlignY=58&descColor=8be9fd" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=1100&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=root%40vaibhav%3A~%24+whoami;Founder's+Office+Developer+%40+NexaThread;MCA+%40+Jain+University;Cyber+Security+Enthusiast;Building+Secure+Full-Stack+Applications;Exploring+AI+and+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00FF9C&center=true&vCenter=true&width=750&lines=root%40vaibhav%3A~%24+whoami;MCA+%E2%80%94+Information+Security+%26+Management%2C+Jain+University;Developer+%40+NexaThread+%7C+CTF+Player;Offensive+Security+%2B+AI+Security+%E2%80%94+in+progress" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=voltobe100&amp;label=PROFILE%20VIEWS&amp;color=00ff9c&amp;style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=voltobe100&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="profile views"/>
 
 </div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voltobe100/voltobe100/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voltobe100/voltobe100/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/voltobe100/voltobe100/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 <br/>
 
@@ -28,63 +20,108 @@
 name: Vaibhav Golchha
 education: MCA, Information Security & Management Services — Jain University
 role: Founder's Office – Developer @ NexaThread.Solutions
-past: Frontend Developer @ Dehix
-location: Bengaluru, India
-interests: Cyber Security, AI/ML, Full-Stack Development, Cloud
-learning: ML Systems, AI Agents, Cloud Security, DevOps
-status: Actively building, breaking & learning
+focus: Offensive Security · AI Security · Secure Full-Stack Development
+ctf: 6 team competitions · TryHackMe / PicoCTF / OverTheWire
+status: building, breaking, documenting
 ```
 
 ### About Me
 
-I work at the intersection of **building** and **securing** software. At **NexaThread.Solutions**, I'm part of the founder's office as a developer — shipping product features with security in mind from day one. Before that, I built interfaces at **Dehix** as a frontend developer.
+I sit at the intersection of **building software** and **trying to break it first**. Day to day, I ship product features as part of the founder's office at **NexaThread** — but my background is in information security, and that shapes how I write code: think about what fails before deciding what ships.
 
-My background in **Information Security** shapes how I approach code: understand what can break before deciding what to ship. I'm now extending that mindset into **AI/ML** and cloud systems.
+Outside of work, I compete in **CTFs** across OSINT, forensics, cryptography, and web exploitation, and run a personal lab for offensive security practice. I'm currently extending that foundation into **AI security** — starting with hands-on LLM API work as a base for exploring prompt injection and adversarial testing.
 
-- 🔐 Security-first approach to full-stack development
-- 🏗️ Comfortable owning features end-to-end — API, database, UI
-- 🤖 Exploring AI agents and applied machine learning
-- ☁️ Building interest in cloud-native security
+- 🔐 Offensive security fundamentals — networking, web exploitation, forensics, cryptanalysis
+- 🧪 CTF player — six team competitions, ongoing practice on TryHackMe / PicoCTF / OverTheWire
+- 🤖 Building toward AI security — LLM API integration now, red teaming next
+- 🏗️ Full-stack developer who treats security as a design constraint, not an afterthought
+
+<br/>
+
+## `> CTF Journey`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Competitions**
+- Fahem Sec CTF (HackerOne)
+- Crest CTF
+- Apoorv CTF
+- Syntaxia CTF
+- UNI CTF
+- NFSU CTF
+
+</td>
+<td width="50%" valign="top">
+
+**Practice Platforms**
+- TryHackMe
+- PicoCTF
+- OverTheWire
+
+</td>
+</tr>
+</table>
+
+**Domains practiced:** OSINT · Digital Forensics · Cryptography · Web Exploitation · Privilege Escalation
+
+Tooling across these challenges: `Wireshark` `Ghidra` `Binwalk` `Volatility` `Steghide` `CyberChef` `Hashcat` `John the Ripper` `RsaCtfTool` `Sherlock` `Maltego` `theHarvester` `BloodHound`
+
+<br/>
+
+## `> Featured Projects`
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Remote Access Trojan**
+Client-server tool built in a controlled lab environment to study remote-access malware and C2-style communication. 90% success rate in remote command execution; keylogging and remote shell access implemented with a 3-person team.
+
+</td>
+<td width="33%" valign="top">
+
+**Vulnerable VM Home Lab**
+Self-hosted VirtualBox/VMware lab with Metasploitable-style targets, used outside coursework to independently practice enumeration, exploitation, and privilege escalation.
+
+</td>
+<td width="33%" valign="top">
+
+**LLM Text Summarization Tool**
+Python project integrating an LLM API (OpenAI/Claude) for text summarization — hands-on prompt design and API integration as a base for AI security exploration.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## `> Tech Stack`
 
 <table width="100%">
-<tr><td width="140" valign="top"><b>Languages</b></td><td>
+<tr><td width="140" valign="top"><b>Security</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts&amp;theme=dark" />
-<img src="https://img.shields.io/badge/SQL-16213e?style=for-the-badge&amp;logo=postgresql&amp;logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Kali%20Linux-16213e?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Wireshark-16213e?style=for-the-badge&logo=wireshark&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Nmap-16213e?style=for-the-badge&logo=nmap&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Burp%20Suite-16213e?style=for-the-badge&logo=burpsuite&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/Metasploit-16213e?style=for-the-badge&logo=metasploit&logoColor=00ff9c" />
+
+</td></tr>
+<tr><td valign="top"><b>Languages</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=py,java,js,bash&theme=dark" />
 
 </td></tr>
 <tr><td valign="top"><b>Frontend</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
 </td></tr>
-<tr><td valign="top"><b>Backend</b></td><td>
+<tr><td valign="top"><b>Tools</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;theme=dark" />
-
-</td></tr>
-<tr><td valign="top"><b>Databases</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&amp;theme=dark" />
-
-</td></tr>
-<tr><td valign="top"><b>DevOps / Tools</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark" />
-
-</td></tr>
-<tr><td valign="top"><b>Security</b></td><td>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-16213e?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Wireshark-16213e?style=for-the-badge&amp;logo=wireshark&amp;logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Nmap-16213e?style=for-the-badge&amp;logo=nmap&amp;logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/OWASP-16213e?style=for-the-badge&amp;logo=owasp&amp;logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Linux-16213e?style=for-the-badge&amp;logo=linux&amp;logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Docker-16213e?style=for-the-badge&amp;logo=docker&amp;logoColor=00ff9c" />
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" />
 
 </td></tr>
 </table>
@@ -95,10 +132,9 @@ My background in **Information Security** shapes how I approach code: understand
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00FF9C?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20Agents-00FF9C?style=for-the-badge&amp;logo=langchain&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/Cloud%20Security-00FF9C?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/DevOps-00FF9C?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20Security-00FF9C?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Prompt%20Injection%20%2F%20LLM%20Red%20Teaming-00FF9C?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloud%20Security-00FF9C?style=for-the-badge&logo=cloudflare&logoColor=black" />
 
 </div>
 
@@ -108,19 +144,8 @@ My background in **Information Security** shapes how I approach code: understand
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=voltobe100&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00ff9c&amp;icon_color=00ff9c&amp;text_color=c9d1d9&amp;count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=voltobe100&amp;theme=highcontrast&amp;hide_border=true&amp;background=0d1117&amp;ring=00ff9c&amp;fire=00ff9c&amp;currStreakLabel=00ff9c" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltobe100&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00ff9c&amp;text_color=c9d1d9" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=voltobe100&amp;theme=algolia&amp;no-frame=true&amp;margin-w=8&amp;row=2&amp;column=4" width="49%" />
-
-</div>
-
-<div align="center">
-
-### `> Activity Graph`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=voltobe100&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=00ff9c&amp;line=00ff9c&amp;point=ffffff" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=voltobe100&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=voltobe100&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="49%" />
 
 </div>
 
@@ -131,24 +156,24 @@ My background in **Information Security** shapes how I approach code: understand
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vaibhavgolchha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/VaibhavGolchha5" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:vaibhavc.pgolchha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/voltobe100" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0a0e27&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0e27&height=100&section=footer" width="100%"/>
 
 <div align="center">
-<sub>🔐 "The system is only as secure as the developer who understands it." — building with that in mind.</sub>
+<sub>🔐 "The system is only as secure as the developer who understands it."</sub>
 </div>
