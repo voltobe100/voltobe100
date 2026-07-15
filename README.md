@@ -74,28 +74,41 @@ Tooling across these challenges: `Wireshark` `Ghidra` `Binwalk` `Volatility` `St
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 **[PyTelNetLink](https://github.com/voltobe100/PyTelNetLink)**
-Multithreaded LAN scanner that discovers devices with open Telnet ports and connects via a Tkinter GUI — network discovery + protocol-level interaction in one tool.
+Thread-pooled LAN scanner with a raw-socket Telnet client (proper IAC negotiation handling, no deprecated stdlib) and a Tkinter GUI with command history and session log export.
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 **Remote Access Trojan**
 Client-server tool built in a controlled lab environment to study remote-access malware and C2-style communication. 90% success rate in remote command execution; keylogging and remote shell access implemented with a 3-person team.
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[LinkedIn Content Moderation Extension](https://github.com/dehixorg/dehixLinkedinExtension)**
+Chrome extension (built during my Dehix internship) that detects and hides spam or suspicious posts/accounts from the LinkedIn feed, with user-configurable filters and Chrome Storage-based settings persistence.
+
+</td>
+<td width="50%" valign="top">
 
 **Vulnerable VM Home Lab**
 Self-hosted VirtualBox/VMware lab with Metasploitable-style targets, used outside coursework to independently practice enumeration, exploitation, and privilege escalation.
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **LLM Text Summarization Tool**
 Python project integrating an LLM API (OpenAI/Claude) for text summarization — hands-on prompt design and API integration as a base for AI security exploration.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
